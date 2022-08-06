@@ -1,0 +1,15 @@
+{
+  "name": "offline-ppt",
+  "private": true,
+  "scripts": {
+    "build": "slidev build offline.md",
+    "dev": "slidev offline",
+    "dev-demo": "slidev demo",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.35.4",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  }
+}
