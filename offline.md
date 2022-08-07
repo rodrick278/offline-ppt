@@ -188,6 +188,8 @@ layout: two-cols
 - 📑 **区块** - 功能确定且具有复杂度和通用性
 - 📰 **页面模板** - 整体页面定制化
 
+[概念参考 Link](https://appworks.site/materialCenter/react.html)
+
 
 
 ::right::
