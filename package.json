@@ -5,11 +5,14 @@
     "build": "slidev build offline.md",
     "dev": "slidev offline",
     "dev-demo": "slidev demo",
-    "export": "slidev export"
+    "export": "slidev export offline.md"
   },
   "dependencies": {
     "@slidev/cli": "^0.35.4",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.24.2"
   }
 }

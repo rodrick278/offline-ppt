@@ -14,6 +14,7 @@ drawings:
   persist: false
 # use UnoCSS (experimental)
 css: unocss
+download: true
 ---
 # offline 组件化与快速搭建
 
