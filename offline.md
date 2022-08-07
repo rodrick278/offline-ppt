@@ -100,9 +100,9 @@ layout: two-cols
 <img src="/table.png"/>
 
 <div class="flex mt-8">
-  <ul v-click class="ml-36">
-    <li>Search Form
-      <ul>
+  <ul v-click class="ml-26">
+    <li class="font-bold">Search Form
+      <ul class="font-normal">
       <li>label</li>
       <li>value</li>
       <li>validate</li>
@@ -110,9 +110,9 @@ layout: two-cols
     </ul>
     </li>
   </ul>
-  <ul v-click class="ml-48">
-    <li>Table
-      <ul>
+  <ul v-click class="ml-54">
+    <li class="font-bold">Table
+      <ul class="font-normal">
       <li>字段展示</li>
       <li>操作
         <ul>
