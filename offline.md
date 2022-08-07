@@ -43,14 +43,19 @@ layout: two-cols
 
 </template>
 
+
+---
+layout: center
+---
+
+# 常见组件类型划分
+
 ---
 layout: two-cols
 ---
 <template v-slot:default>
 
-# 📃常见组件类型划分
-
-菜单&路由 JSON 配置化
+# 📃菜单&路由 JSON 配置化
 
 <img src="/layout.png"/>
 
@@ -190,6 +195,10 @@ layout: two-cols
  <img class="mt-20" src="/components.png"/>
 
 ---
+layout: center
+---
+# 方案
+
 ---
 
 # 👨‍💻配置化方案
@@ -225,5 +234,6 @@ layout: two-cols
 # 🎈 畅想
 
 <img class="max-h-[90%]" src="/frame2.png"/>
+
 
 
